@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <name>${artifactId}</name>
     <description>
-        
+        mysql 误操作(delete, update, insert) 闪回恢复
+        Flashback recovery of MySQL misoperation (delete, update, insert)
     </description>
 
     <properties>
