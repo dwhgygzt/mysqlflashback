@@ -1,0 +1,15 @@
+{
+  "dumpType": "remote",
+  "targetDbName": "guohe-wms-prod",
+  "targetHost": "localhost",
+  "targetPort": "3309",
+  "targetUser": "root",
+  "targetPassword": "root123",
+  "targetTableName": "t_tmp_money",
+  "targetTableColumns": "",
+  "targetEvent": "UPDATE",
+  "startDatetime": "2022-08-13 11:00:00",
+  "stopDatetime": "2022-08-13 11:10:00",
+  "binLogFileName": "mysql-bin.000012",
+  "mysqlHome": "E:\\mysql8"
+}
